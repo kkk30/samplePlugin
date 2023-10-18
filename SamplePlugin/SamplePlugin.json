@@ -1,13 +1,15 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "samplePlugin",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ]
+    "Name": "Sample Plugin",
+    "Author": "kkk30",
+    "Punchline": "Add a reset striking dummy enmity command.",
+    "Description": "Add a reset striking dummy enmity command.",
+    "RepoUrl": "httpshttps://github.com/kkk30/samplePlugin",
+    "Tags": [
+        "striking",
+        "battle",
+        "train"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png"
 }
